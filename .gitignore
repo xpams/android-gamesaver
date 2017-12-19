@@ -19,6 +19,8 @@ bin/
 gen/
 out/
 
+_gitignore
+
 # Gradle files
 .gradle
 .gradle/
